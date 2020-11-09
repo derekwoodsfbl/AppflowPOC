@@ -1,6 +1,8 @@
 {
   "name": "AppflowPOC",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular",
   "id": "6cc37580"
 }
